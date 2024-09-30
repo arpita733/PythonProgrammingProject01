@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1dfc4a1-0ce8-4895-8c97-fb85e9e46f18" name="Changes" comment="New Project setup">
-      <change afterPath="$PROJECT_DIR$/src/Task001/lab003#.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task001/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task001/Lab001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task001/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task001/Lab002.py" afterDir="false" />
+    <list default="true" id="d1dfc4a1-0ce8-4895-8c97-fb85e9e46f18" name="Changes" comment="New Project setup lab003#">
+      <change afterPath="$PROJECT_DIR$/src/Task001/lab004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +62,7 @@
     "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lab003#">
+  <component name="RunManager" selected="Python.lab004">
     <configuration name="Lab002 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProgrammingProject01" />
       <option name="ENV_FILES" value="" />
@@ -175,10 +172,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab004" />
         <item itemvalue="Python.lab003#" />
         <item itemvalue="Python.lab003" />
         <item itemvalue="Python.Lab002 (1)" />
-        <item itemvalue="Python.lab004" />
         <item itemvalue="Python.Lab002" />
       </list>
     </recent_temporary>
@@ -223,12 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727683230170</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New Project setup lab003#">
+      <option name="closed" value="true" />
+      <created>1727684155099</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727684155099</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Project" />
     <MESSAGE value="New Project setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Project setup" />
+    <MESSAGE value="New Project setup lab003#" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Project setup lab003#" />
   </component>
 </project>
